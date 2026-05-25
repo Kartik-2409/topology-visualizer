@@ -1,11 +1,11 @@
 # 1D Convolution Boundary & Padding Visualizer
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://topology-visualizer-di9kaf4mkju5vqbidsa5ja.streamlit.app/])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://topology-visualizer-2ej8q9l474fjdrgdqf42z8.streamlit.app/)
 
 ### The Problem
 In standard deep learning frameworks like PyTorch, applying a convolutional kernel over sequential data inherently drops boundary information (edge data) unless artificially preserved. This interactive tool visualizes the physical geometry of 1D convolutions, demonstrating exactly how stride length, kernel radius, and artificial padding dictate the final tensor dimensions.
 
-![1D Convolution Visualizer App]([demo.png])
+![1D Convolution Visualizer App](demo.png)
 
 ---
 
